@@ -489,8 +489,8 @@ textarea {
 
     }
 
-    .myPortfolio {
-        font-size: 1rem;
+    .welcome-text {
+        font-size: 1.5rem;
         padding: 5px;
 
     }
@@ -503,7 +503,6 @@ textarea {
     textarea {
         width: 80%;
     }
-
 }
 
 /****** END RESPONSIVE ******/
